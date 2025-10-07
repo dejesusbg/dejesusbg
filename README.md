@@ -1,13 +1,15 @@
-**Hi, I'm Ricardo!** 🪸
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I am a Full-stack developer and systems engineering student based in Colombia. Passionate about building scalable web applications, designing microservices, and diving into AI/ML workflows.
+I’m [Ricardo](https://dejesusbg.netlify.app/), a full-stack developer and systems engineering student from Colombia.
 
-You can probably find me experimenting with new technologies, working on side projects, designing in Figma, or optimizing my workflow for speed and efficiency. I’m currently focused on enhancing my GitHub portfolio with cool projects like navigation systems and computer vision pipelines.
+I build things that scale: web apps, microservices, and machine learning tools.
 
-**What I’m into:**
+I’m usually working on:
 
-- **Web Apps:** React, Next.js, Tailwind CSS, Node.js
-- **Microservices:** Spring Boot, Docker, Redis, PostgreSQL, MongoDB
-- **ML & Cloud:** Python, TensorFlow, scikit-learn, AWS, Docker
+* Web systems with **React**, **Next.js**, **Tailwind**, **Node.js**, **Figma**
+* Distributed backends with **Spring Boot**, **Docker**, **MongoDB**, **Redis**
+* AI/ML experiments with **Python**, **TensorFlow**, **scikit-learn**
 
-I’m always on the lookout for my next tech challenge, preferably in AI, software development, or data science; actively seeking internship or full-time opportunities where I can grow and contribute.
+I care about clean architecture, fast iteration, and building tech that actually solves problems.
+
+Currently open to internships or full-time roles in **AI**, **software engineering**, or **data science**.
