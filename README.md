@@ -1,15 +1,13 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [Ricardo](https://dejesusbg.netlify.app/), a full-stack developer and systems engineering student from Colombia.
+I’m Ricardo, a full-stack dev and Systems Engineering student from Colombia.
 
-I build things that scale: web apps, microservices, and machine learning tools.
+I love to build experiences that help others.
 
-I’m usually working on:
+Craft slick web apps with **React**, **Next.js**, **TypeScript**, **Tailwind**, **Figma**. Spin up robust backends with **Spring Boot**, **Docker**, **MongoDB**, **Redis**. Build cool AI/ML tools like an AI mango classifier or a navigation app for the visually impaired using **Python**, **TensorFlow**, **scikit-learn**.
 
-* Web systems with **React**, **Next.js**, **Tailwind**, **Node.js**, **Figma**
-* Distributed backends with **Spring Boot**, **Docker**, **MongoDB**, **Redis**
-* AI/ML experiments with **Python**, **TensorFlow**, **scikit-learn**
+Clean code, fast builds, real impact: that’s my motto. Always chasing the next big idea in AI or software.
 
-I care about clean architecture, fast iteration, and building tech that actually solves problems.
+Jam to *The Marías* while coding. Exercise to spark epic ideas. Geek out on tech trends and leveling up my skills.
 
-Currently open to internships or full-time roles in **AI**, **software engineering**, or **data science**.
+Hunting for internships or full-time roles in AI, software engineering, or data science. Let's connect on [LinkedIn](https://www.linkedin.com/in/dejesusbg/) or check my [portfolio](https://dejesusbg.netlify.app/)!
