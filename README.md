@@ -10,4 +10,4 @@ Clean code, fast builds, real impact: that’s my motto. Always chasing the next
 
 **Jam to some music** while coding. Exercise to spark epic ideas. Geek out on tech trends and leveling up my skills.
 
-Hunting for internships or full-time roles in AI, software engineering, or data science. Let's connect on [LinkedIn](https://www.linkedin.com/in/dejesusbg/) or check my [portfolio](https://dejesusbg.netlify.app/)!
+Hunting for roles in AI, software engineering, or data science. Let's connect on [LinkedIn](https://www.linkedin.com/in/dejesusbg/) or check my [portfolio](https://dejesusbg.netlify.app/)!
